@@ -12,7 +12,7 @@ using System;
  {
  public static void Main()
  {
- Mycode.Exec()
+ Mycode.Exec();
  }
  }
  [System.ComponentModel.RunInstaller(true)]
